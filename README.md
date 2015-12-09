@@ -1,9 +1,9 @@
-[![](https://travis-ci.org/gaia-components/gaia-fast-list.svg)](https://travis-ci.org/gaia-components/gaia-fast-list) [![Coverage Status](https://coveralls.io/repos/gaia-components/gaia-fast-list/badge.svg?branch=master&service=github)](https://coveralls.io/github/gaia-components/gaia-fast-list?branch=master)
+[![](https://travis-ci.org/fxos-components/gaia-fast-list.svg)](https://travis-ci.org/fxos-components/gaia-fast-list) [![Coverage Status](https://coveralls.io/repos/fxos-components/gaia-fast-list/badge.svg?branch=master&service=github)](https://coveralls.io/github/fxos-components/gaia-fast-list?branch=master)
 
 ## Installation
 
 ```bash
-$ bower install gaia-components/gaia-fast-list
+$ bower install fxos-components/gaia-fast-list
 ```
 
 ## Usage

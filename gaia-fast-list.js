@@ -4,7 +4,7 @@
  * Dependencies
  */
 
-var component = require('gaia-component');
+var component = require('fxos-component');
 var FastList = require('fast-list');
 var scheduler = FastList.scheduler;
 var popel = require('popel');
@@ -177,7 +177,7 @@ var GaiaFastListProto = {
 
   /**
    * Public attributes/properties configuration
-   * used by gaia-component.js.
+   * used by fxos-component.js.
    *
    * @type {Object}
    */

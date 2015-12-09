@@ -15,7 +15,7 @@ module.exports = function(config) {
     files: [
       'bower_components/dom-scheduler/lib/dom-scheduler.js',
       'bower_components/fast-list/fast-list.js',
-      'bower_components/gaia-component/gaia-component.js',
+      'bower_components/fxos-component/fxos-component.js',
       'bower_components/poplar/popal.js',
       'gaia-fast-list.js',
       'bower_components/test-utils/src/utils.js',
