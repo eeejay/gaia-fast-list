@@ -8,7 +8,7 @@ var component = require('fxos-component');
 var FastList = require('fast-list');
 var scheduler = FastList.scheduler;
 var popel = require('popel');
-require('gaia-sub-header');
+require('fxos-sub-header');
 
 /**
  * Pointer abstractions
@@ -1659,7 +1659,7 @@ Internal.prototype = {
 
   // Default header template overridden by
   // <template header> inside <gaia-fast-list>
-  templateHeader: '<gaia-sub-header>${section}</gaia-sub-header>',
+  templateHeader: '<fxos-sub-header>${section}</fxos-sub-header>',
 
   // Default item template overridden by
   // <template item> inside <gaia-fast-list>
